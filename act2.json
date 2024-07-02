@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "Ade Bintang Septian",
+        "npm" : "50423036",
+        "kelas" : "1IA21",
+        "fakultas" : "Teknologi Industri",
+        "jurusan" : "Informatika"
+    },
+    {
+        "nama" : "Julius Wahyu Wicaksono",
+        "npm" : "50422762",
+        "kelas" : "1IA24",
+        "fakultas" : "Teknologi Industri",
+        "jurusan" : "Informatika"
+    },
+    {
+        "nama" : "Lutfi Robbani",
+        "npm" : "50422818",
+        "kelas" : "1IA24",
+        "fakultas" : "Teknologi Industri",
+        "jurusan" : "Informatika"
+    }
+]
